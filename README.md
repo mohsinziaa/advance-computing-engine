@@ -1,4 +1,4 @@
-# advance-computing-engine
+# Advance Computing Engine(ACE)
 
 In this project we had to design a processor with a minimum number of instructions to per
 form the basic arithmetic, logic, shift, I/O and program control instructions. 
